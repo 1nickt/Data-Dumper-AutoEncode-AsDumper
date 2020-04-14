@@ -111,9 +111,7 @@ Dai Okabayashi (L<BAYASHI|https://metacpan.org/author/BAYASHI>)
 
 Graham Knop (L<HAARG|https://metacpan.org/author/HAARG>)
 
-Gurusamy Sarathy (L<GSAR|https://metacpan.org/author/GSAR>)
-
-  ( and Sawyer X (L<XSAWYERX|https://metacpan.org/author/XSAWYERX>) )
+Gurusamy Sarathy (L<GSAR|https://metacpan.org/author/GSAR>) ( and Sawyer X (L<XSAWYERX|https://metacpan.org/author/XSAWYERX>) )
 
 Slaven Rezić (L<SREZIC|https://metacpan.org/author/SREZIC>)
 
