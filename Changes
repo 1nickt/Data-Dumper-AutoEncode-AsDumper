@@ -2,6 +2,8 @@ Changes file for Data::Dumper::AutoEncode::AsDumper
 
 {{$NEXT}}
 
+1.0002    2020-04-14 12:00:35-04:00 America/New_York
+
   - Fix minor but annoying pod issue
   
 1.0001    2020-04-14 11:53:52-04:00 America/New_York

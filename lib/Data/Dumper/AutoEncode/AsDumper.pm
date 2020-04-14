@@ -1,6 +1,6 @@
 package Data::Dumper::AutoEncode::AsDumper;
 
-our $VERSION = '1.0002';
+our $VERSION = '1.0003';
 
 use strict; use warnings; use utf8;
 use Import::Into;
