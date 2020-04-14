@@ -1,7 +1,7 @@
 use strict;
 use warnings;
-use utf8;
 use Test::More;
+use Test::More::UTF8;
 use Encode;
 use Capture::Tiny 'capture_stderr';
 use FindBin '$RealBin';
